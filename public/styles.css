@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  margin: 0;
+}
+
+#home_page_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+#home_title {
+  font-size: 34px;
+}
